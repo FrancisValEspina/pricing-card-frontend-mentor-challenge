@@ -60,7 +60,7 @@ html {
 
 #bottomRight li {
   font-size:14px;
-  opacity:;
+  opacity:0.8;
 }
 
 h4, h2, p{
@@ -101,13 +101,13 @@ h4, h2, p{
   font-size:35px;
 }
 #monthly{
-  margin:10px
+  margin:10px;
 }
 
 #month{
   font-size: 15px;
   margin-left:10px;
-  opacity:0.5
+  opacity:0.5;
 }
 
 #month, #monthly{
